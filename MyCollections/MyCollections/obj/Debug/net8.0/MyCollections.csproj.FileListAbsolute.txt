@@ -1,0 +1,14 @@
+C:\Users\Giorgi\Desktop\MyCollections\MyCollections\bin\Debug\net8.0\MyCollections.exe
+C:\Users\Giorgi\Desktop\MyCollections\MyCollections\bin\Debug\net8.0\MyCollections.deps.json
+C:\Users\Giorgi\Desktop\MyCollections\MyCollections\bin\Debug\net8.0\MyCollections.runtimeconfig.json
+C:\Users\Giorgi\Desktop\MyCollections\MyCollections\bin\Debug\net8.0\MyCollections.dll
+C:\Users\Giorgi\Desktop\MyCollections\MyCollections\bin\Debug\net8.0\MyCollections.pdb
+C:\Users\Giorgi\Desktop\MyCollections\MyCollections\obj\Debug\net8.0\MyCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giorgi\Desktop\MyCollections\MyCollections\obj\Debug\net8.0\MyCollections.AssemblyInfoInputs.cache
+C:\Users\Giorgi\Desktop\MyCollections\MyCollections\obj\Debug\net8.0\MyCollections.AssemblyInfo.cs
+C:\Users\Giorgi\Desktop\MyCollections\MyCollections\obj\Debug\net8.0\MyCollections.csproj.CoreCompileInputs.cache
+C:\Users\Giorgi\Desktop\MyCollections\MyCollections\obj\Debug\net8.0\MyCollections.dll
+C:\Users\Giorgi\Desktop\MyCollections\MyCollections\obj\Debug\net8.0\refint\MyCollections.dll
+C:\Users\Giorgi\Desktop\MyCollections\MyCollections\obj\Debug\net8.0\MyCollections.pdb
+C:\Users\Giorgi\Desktop\MyCollections\MyCollections\obj\Debug\net8.0\MyCollections.genruntimeconfig.cache
+C:\Users\Giorgi\Desktop\MyCollections\MyCollections\obj\Debug\net8.0\ref\MyCollections.dll
